@@ -1,0 +1,12 @@
+{
+    "image_1": {
+            "title": "My Tests",
+            "description": "This is a personal website for my tests and experiments.",
+            "image_url": "https://example.com/image.jpg"
+    },
+    "image_2": {
+            "title": "Welcome to My Tests",
+            "description": "Explore my tests and experiments in various fields.",
+            "image_url": "https://example.com/home_image.jpg"
+    }
+}
